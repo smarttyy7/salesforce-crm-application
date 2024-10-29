@@ -140,10 +140,10 @@ Watch the video above for a complete demonstration of EduConsultPro's features a
 
 ## Author
 
-**MOKA MANOJ KUMAR**<br>
+**SUKUMAR ABHISHEK PUTTA**<br>
 Gayatri Vidya Parishad College of Engineering(A), Visakhapatnam<br>
-Roll Number: 21131A05C3<br>
-Email: 21131a05c3@gvpce.ac.in
+Roll Number: 21131A1251<br>
+Email: 21131a1251@gvpce.ac.in
 
 
 ## License
